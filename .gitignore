@@ -1,0 +1,19 @@
+# Models & checkpoints
+sentiment_model/
+checkpoint-*/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+.env
+.venv
+venv/

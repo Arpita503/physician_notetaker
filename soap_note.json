@@ -1,0 +1,18 @@
+{
+    "Subjective": {
+        "Chief_Complaint": "Neck and back pain following a car accident",
+        "History_of_Present_Illness": "Patient was involved in a rear-end motor vehicle accident on September 1st. She experienced immediate neck and back pain, which was severe for four weeks. Symptoms improved over time after physiotherapy, with only occasional backache now."
+    },
+    "Objective": {
+        "Physical_Exam": "Full range of motion in cervical and lumbar spine. No tenderness or signs of lasting injury.",
+        "Observations": "Patient appears in good general health. Normal posture and gait observed."
+    },
+    "Assessment": {
+        "Diagnosis": "Whiplash injury",
+        "Severity": "Mild, improving with no evidence of chronic damage"
+    },
+    "Plan": {
+        "Treatment": "No active treatment required at present. Patient may continue light exercises and use analgesics if required.",
+        "Follow_Up": "Follow-up only if symptoms worsen or new symptoms develop. Full recovery expected within six months post-accident."
+    }
+}
