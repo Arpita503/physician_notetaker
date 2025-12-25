@@ -1,16 +1,14 @@
-\# 🩺 Physician Notetaker:
-
+# 🩺 Physician Notetaker:
 
 
 An AI-based medical NLP system for extracting structured medical information, sentiment analysis, and SOAP note generation from physician–patient conversations.
-
 
 
 ---
 
 
 
-\## 📌 Features:
+# 📌 Features:
 
 
 
@@ -30,7 +28,7 @@ An AI-based medical NLP system for extracting structured medical information, se
 
 
 
-\## 🛠️ Tech Stack:
+# 🛠️ Tech Stack:
 
 \- Python
 
@@ -47,8 +45,7 @@ An AI-based medical NLP system for extracting structured medical information, se
 ---
 
 
-
-\## 📂 Project Structure:
+# 📂 Project Structure:
 
 
 
@@ -70,17 +67,18 @@ physician-notetaker/
 
 
 
-\## 🚀 Setup Instructions:
+# 🚀 Setup Instructions:
 
 
 
-\### 1. Create Conda Environment
+# 1. Create Conda Environment
 
 ```bash
 
 conda create -n physician-notetaker python=3.10
 
 conda activate physician-notetaker
+```
 
 
 
@@ -90,9 +88,9 @@ conda activate physician-notetaker
 
 
 
-pip install spacy transformers torch scikit-learn pandas nltk jupyter
+\- pip install spacy transformers torch scikit-learn pandas nltk jupyter
 
-python -m spacy download en\_core\_web\_sm
+\- python -m spacy download en\_core\_web\_sm
 
 
 
@@ -100,9 +98,9 @@ python -m spacy download en\_core\_web\_sm
 
 
 
-jupyter notebook
+\- jupyter notebook
 
 
 
-• Open physician\_notetaker.ipynb
+\- Open physician\_notetaker.ipynb
 
